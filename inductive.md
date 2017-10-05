@@ -1,4 +1,4 @@
-# Quiz 1 Inductive Learning
+# Inductive Learning
 
 Note that all ~scratch words~ indicate wrong part in the option, and all
 _italic_ or __bold__ sentences are notes.
